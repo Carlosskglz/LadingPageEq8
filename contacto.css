@@ -8,11 +8,11 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f9;
+    background-color: #E2F2EC;
 }
 
 header {
-    background: #5cc65a;
+    background: #377761;
     color: #fff;
     padding: 1rem 2rem;
     display: flex;
